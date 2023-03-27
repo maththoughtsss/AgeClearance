@@ -1,0 +1,15 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\bin\Debug\net7.0\AgeClearance.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\bin\Debug\net7.0\AgeClearance.deps.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\bin\Debug\net7.0\AgeClearance.runtimeconfig.json
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\bin\Debug\net7.0\AgeClearance.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\bin\Debug\net7.0\AgeClearance.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.AssemblyInfoInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.AssemblyInfo.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\refint\AgeClearance.dll
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\AgeClearance.genruntimeconfig.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\AgeClearance\obj\Debug\net7.0\ref\AgeClearance.dll
